@@ -24,6 +24,9 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 ## Indizes
 
 - [**MSCI World**: Sehr beliebter ETF-Index, Risiko wird über 1600 weltweite Aktien gestreut](https://etfs24.de/ausschuttender-etf-auf-den-msci-world-index/)
+- [**DAX**: Die besten ETFs auf den DAX 30 Index](https://etfs24.de/daxetf-die-besten-etf-fonds-auf-den-dax/)
+- [**Nasdaq 100** ETFs & Sparpläne](https://etfs24.de/die-besten-nasdaq-100-etfs/)
+- [**MSCI All Countries World**: Rund 2750 Aktien](https://etfs24.de/zwei-etfs-auf-den-msci-all-countries-world-index/)
 
 ## Wie funktionieren ETFs?
 
