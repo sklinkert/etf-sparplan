@@ -15,14 +15,17 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 
 ## Sparplan-Angebote im Detail
 
-- **[ETF-Sparplan-Rechner](https://etfs24.de/etf-sparplan-rechner/)**
-
-- [**Trade Republic**: 280 iShares-Sparpläne kostenlos](https://etfs24.de/etf-anlage-mit-dem-neuen-broker-trade-republic/)
+- [ETF-Sparplan-Angebote im Vergleich](https://etfs24.de/der-etf-sparplan-vergleich/)
+- **[ETF-Sparplan-Rechner: Zinsen und Renditen berechnen](https://etfs24.de/etf-sparplan-rechner/)**
+- [**Trade Republic**: 300 iShares-Sparpläne kostenlos](https://etfs24.de/etf-anlage-mit-dem-neuen-broker-trade-republic/)
 - [**onvista bank**: Viele kostenlose Sparpläne verschiedener Anbieter](https://etfs24.de/kostenlose-etf-sparplane-mit-dem-onvista-depot/)
 - [**Consorsbank**: Viele kostenlose Sparpläne, ansonsten nur 1,50% auf die Sparrate](https://etfs24.de/etf-depot-bei-der-consorsbank/)
 - [**Flatex**: Mehr als 750 ETFs sparplanfähig](https://etfs24.de/flatex-etf-sparplan-langfristiger-vermogensaufbau-mit-risikostreuung/)
 - [**comdirect**: Mehr als 1000 ETFs](https://etfs24.de/comdirect-depot-eroffnen-fur-etf-sparer/)
 - [**finvesto**: Vermögenswirksame Leistungen in Verbindung mit einem ETF-Sparplan](https://etfs24.de/vermoegenswirksame-leistungen-etf/)
+- [sbroker: Der Online-Broker der Sparkassen](https://etfs24.de/etf-sparkasse/)
+- [DKB: ETF-Sparplan für nur 1,50 Euro pro Ausführung](https://etfs24.de/mit-einem-dkb-etf-sparplan-fur-die-zukunft-sorgen/)
+- [Smartbroker ETF Sparplan](https://www.sparplaene.net/smartbroker-sparplan-test/)
 
 ## Indizes
 
@@ -48,5 +51,14 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [Wie funktionieren gehebelte ETFs?](https://etfs24.de/wie-funktionieren-gehebelte-etfs/)
 - [Wie funktionieren Dividenden-ETFs?](https://etfs24.de/funktionsweise-von-dividenden-etfs/)
 - [Wie funktionieren Gold-ETFs?](https://etfs24.de/wie-gold-etfs-funktionieren/)
+
+
+
+## Robo Advisor
+
+- [Quirion](https://www.sparplaene.net/robo-advisor-von-quirion-im-test/)
+- [WeltSparen / WeltInvest](https://www.sparplaene.net/weltsparen-und-weltinvest-im-test/)
+- [Oskar ETF](https://www.sparplaene.net/oskar-etf-sparplan-im-test/)
+- [Growney](https://www.sparplaene.net/growney-sparplan-test/)
 
 **Hinweise**: ETFs unterliegen genau wie Aktien Marktschwankungen. Bei einem Börsen-Crash kann es Jahre dauern, bis sich die Kurse wieder erholt haben. Überlegen Sie sich vorher, wieviel Risiko Sie mental und finanziell eingehen wollen. Dieser Text enthält Markennennungen.
