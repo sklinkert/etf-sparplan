@@ -13,11 +13,18 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [Podcasts](https://etfs24.de/die-liste-der-besten-etf-podcasts-folgen/)
 - [Bücher / Literatur](https://etfs24.de/buchempfehlungen-fur-etf-sparer/)
 
+## Strategien
+
+- [Dividendenstrategie](https://etfs24.de/dividendenstrategie-etf/)
+- [4 Strategien nach Gerd Kommer](https://etfs24.de/etf-strategie-gerd-kommer/)
+- [Core Satellite Strategie](https://etfs24.de/die-core-satellite-strategie/)
+
 ## Sparplan-Angebote im Detail
 
 - [ETF-Sparplan-Angebote im Vergleich](https://etfs24.de/der-etf-sparplan-vergleich/)
 - **[ETF-Sparplan-Rechner: Zinsen und Renditen berechnen](https://etfs24.de/etf-sparplan-rechner/)**
-- [**Trade Republic**: 300 iShares-Sparpläne kostenlos](https://etfs24.de/etf-anlage-mit-dem-neuen-broker-trade-republic/)
+- [**Trade Republic ETF Sparplan**: 300 iShares-Sparpläne kostenlos](https://etfs24.de/etf-anlage-mit-dem-neuen-broker-trade-republic/)
+- [Trade Republic Bank Test und unsere Erfahrungen](https://etfs24.de/trade-republic-test-erfahrungen/)
 - [**onvista bank**: Viele kostenlose Sparpläne verschiedener Anbieter](https://etfs24.de/kostenlose-etf-sparplane-mit-dem-onvista-depot/)
 - [**Consorsbank**: Viele kostenlose Sparpläne, ansonsten nur 1,50% auf die Sparrate](https://etfs24.de/etf-depot-bei-der-consorsbank/)
 - [**Flatex**: Mehr als 750 ETFs sparplanfähig](https://etfs24.de/flatex-etf-sparplan-langfristiger-vermogensaufbau-mit-risikostreuung/)
@@ -52,13 +59,13 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [Wie funktionieren Dividenden-ETFs?](https://etfs24.de/funktionsweise-von-dividenden-etfs/)
 - [Wie funktionieren Gold-ETFs?](https://etfs24.de/wie-gold-etfs-funktionieren/)
 
-
-
 ## Robo Advisor
 
 - [Quirion](https://www.sparplaene.net/robo-advisor-von-quirion-im-test/)
 - [WeltSparen / WeltInvest](https://www.sparplaene.net/weltsparen-und-weltinvest-im-test/)
 - [Oskar ETF](https://www.sparplaene.net/oskar-etf-sparplan-im-test/)
 - [Growney](https://www.sparplaene.net/growney-sparplan-test/)
+
+[ETF-Umfrage](https://www.surveymonkey.de/r/6RCF5PK)
 
 **Hinweise**: ETFs unterliegen genau wie Aktien Marktschwankungen. Bei einem Börsen-Crash kann es Jahre dauern, bis sich die Kurse wieder erholt haben. Überlegen Sie sich vorher, wieviel Risiko Sie mental und finanziell eingehen wollen. Dieser Text enthält Markennennungen.
