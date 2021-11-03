@@ -1,4 +1,4 @@
-# Link-Sammlung rund um ETFs & Sparpläne
+# Link-Sammlung rund um ETFs & ETF-Sparpläne
 
 ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese erfreuen sich immer größerer Beliebtheit bei Sparern in Deutschland. Ein ETF bildet einen Index ab. Ein Index ist ein Korb aus Aktien, wie z. B. der DAX 30, der die 30 größten Aktien in Deutschland abbildet. Da sie an der Börse gehandelt werden, sind sie sehr flexibel, da sie zu jeder Zeit gekauft und verkauft werden können. Anleger profitieren nicht nur von extrem niedrigen Kosten und Gebühren bei ETFs, sondern auch von der Risikostreuung über viele Aktien (Diversifikation). 
 
@@ -6,6 +6,7 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 ## Allgemeines
 
 - [Was sind ETFs?](https://etf.capital/was-sind-etfs/)
+- [Ratgeber: In ETFs investieren für Einsteiger](https://etf.capital/etf-investieren-ratgeber-einsteiger/)
 - [Welche ETFs sind für Beginner & Fortgeschrittene richtig? Wie kann ich ein simples Weltportfolio abbilden?](https://etf.capital/welche-etfs-kaufen-3-etfs-fuer-einsteiger/)
 - [Sparpläne im Vergleich](https://etf.capital/die-besten-depots-fur-etf-sparer/)
 - [Sparplän mit automatischer Wiederanlage der Dividenden](https://etf.capital/sparplane-mit-automatischer-wiederanlage-der-ausschuttungen/)
@@ -16,23 +17,24 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 ## Strategien
 
 - [Dividendenstrategie](https://etf.capital/dividendenstrategie-etf/)
+- [Value-Strategie nach Benjamin Graham](https://etf.capital/benjamin-graham-value-investing/)
 - [4 Strategien nach Gerd Kommer](https://etf.capital/etf-strategie-gerd-kommer/)
 - [Core Satellite Strategie](https://etf.capital/die-core-satellite-strategie/)
+- [Beliebte ETF-Strategien](https://etf.capital/etfs-die-beliebtesten-anlage-strategien/)
 
 ## Sparplan-Angebote im Detail
 
 - [ETF-Sparplan-Angebote im Vergleich](https://etf.capital/der-etf-sparplan-vergleich/)
-- **[ETF-Sparplan-Rechner: Zinsen und Renditen berechnen](https://etf.capital/etf-sparplan-rechner/)**
-- [**Trade Republic ETF Sparplan**: 300 iShares-Sparpläne kostenlos](https://etf.capital/etf-anlage-mit-dem-neuen-broker-trade-republic/)
-- [Trade Republic Bank Test und unsere Erfahrungen](https://etf.capital/trade-republic-test-erfahrungen/)
-- [**onvista bank**: Viele kostenlose Sparpläne verschiedener Anbieter](https://etf.capital/kostenlose-etf-sparplane-mit-dem-onvista-depot/)
-- [**Consorsbank**: Viele kostenlose Sparpläne, ansonsten nur 1,50% auf die Sparrate](https://etf.capital/etf-depot-bei-der-consorsbank/)
-- [**Flatex**: Mehr als 750 ETFs sparplanfähig](https://etf.capital/flatex-etf-sparplan-langfristiger-vermogensaufbau-mit-risikostreuung/)
-- [**comdirect**: Mehr als 1000 ETFs](https://etf.capital/comdirect-depot-eroffnen-fur-etf-sparer/)
-- [**finvesto**: Vermögenswirksame Leistungen in Verbindung mit einem ETF-Sparplan](https://etf.capital/vermoegenswirksame-leistungen-etf/)
-- [sbroker: Der Online-Broker der Sparkassen](https://etf.capital/etf-sparkasse/)
-- [DKB: ETF-Sparplan für nur 1,50 Euro pro Ausführung](https://etf.capital/mit-einem-dkb-etf-sparplan-fur-die-zukunft-sorgen/)
-- [Smartbroker ETF Sparplan](https://www.sparplaene.net/smartbroker-sparplan-test/)
+- [Neobroker im Vergleich](https://etf.capital/neo-broker-vergleich/)
+- [ETF-Sparplan-Rechner: Zinsen und Renditen berechnen](https://etf.capital/etf-sparplan-rechner/)
+- [Depot für Kinder und Jugendliche](https://etf.capital/etf-depots-sparen-fuer-kinder-und-jugendliche/)
+- [flatex](https://etf.capital/broker/flatex/etf-sparplan/)
+- [onvista bank](https://etf.capital/broker/onvista-bank/etf-sparplan/)
+- [Trade Republic](https://etf.capital/broker/trade-republic/etf-sparplan/)
+- [Scalable Capital](https://etf.capital/broker/scalable-capital/etf-sparplan/)
+- [ING](https://etf.capital/broker/ing/etf-sparplan/)
+- [coindex (Krypto-Sparplan)](https://etf.capital/broker/coindex/etf-sparplan/)
+- [comdirect](https://etf.capital/broker/comdirect/etf-sparplan/)
 
 ## Indizes
 
@@ -68,8 +70,10 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [iShares MSCI ACWI - A1JMDF](https://etf.capital/etf/IE00B6R52259)
 - [Vanguard FTSE Developed World - A12CX1](https://etf.capital/etf/IE00BKX55T58)
 
-## Robo Advisor
+## Digitale Vermögensverwaltung
 
+- [Robo Advisor im Vergleich](https://etf.capital/robo-advisor-im-vergleich/)
+- [Whitebox](https://etf.capital/whitebox-robo-advisor-test-und-erfahrungen/)
 - [Quirion](https://www.sparplaene.net/robo-advisor-von-quirion-im-test/)
 - [WeltSparen / WeltInvest](https://www.sparplaene.net/weltsparen-und-weltinvest-im-test/)
 - [Oskar ETF](https://www.sparplaene.net/oskar-etf-sparplan-im-test/)
