@@ -13,6 +13,8 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [Die besten Auszahlstrategien für das Rentenalter](https://etf.capital/etf-auszahlstrategie-was-machen-mit-etfs-im-alter/)
 - [Podcasts](https://etf.capital/die-liste-der-besten-etf-podcasts-folgen/)
 - [Bücher / Literatur](https://etf.capital/buchempfehlungen-fur-etf-sparer/)
+- [ETFs kaufen - Anleitung](https://etf.capital/etfs-kaufen/)
+- [Was ist ein Deptot?](https://etf.capital/was-ist-ein-depot/)
 
 ## Strategien
 
@@ -21,6 +23,7 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [4 Strategien nach Gerd Kommer](https://etf.capital/etf-strategie-gerd-kommer/)
 - [Core Satellite Strategie](https://etf.capital/die-core-satellite-strategie/)
 - [Beliebte ETF-Strategien](https://etf.capital/etfs-die-beliebtesten-anlage-strategien/)
+- [KI-ETFs](https://etf.capital/ki-etf/)
 
 ## Sparplan-Angebote im Detail
 
@@ -33,7 +36,6 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [Trade Republic](https://etf.capital/broker/trade-republic/etf-sparplan/)
 - [Scalable Capital](https://etf.capital/broker/scalable-capital/etf-sparplan/)
 - [ING](https://etf.capital/broker/ing/etf-sparplan/)
-- [coindex (Krypto-Sparplan)](https://etf.capital/broker/coindex/etf-sparplan/)
 - [comdirect](https://etf.capital/broker/comdirect/etf-sparplan/)
 
 ## Indizes
@@ -70,6 +72,17 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [iShares MSCI ACWI - A1JMDF](https://etf.capital/etf/IE00B6R52259)
 - [Vanguard FTSE Developed World - A12CX1](https://etf.capital/etf/IE00BKX55T58)
 
+## Produkt-Vergleiche
+
+- [Depot Vergleich](https://etf.capital/etf-broker-vergleich/)
+- [Kinder- und Jugenddepot](https://etf.capital/etf-depots-sparen-fuer-kinder-und-jugendliche/)
+- [Tagesgeldkonten](https://etf.capital/tagesgeld-vergleich/)
+- [Trading-Apps](https://etf.capital/trading-app-vergleich/)
+- [Firmendepot](https://etf.capital/firmen-depot/)
+- [Festgeldkonten Firmen](https://etf.capital/festgeldkonten-geschaeftskunden/)
+- [Tagesgeldkonten Firmen](https://etf.capital/tagesgeldkonten-geschaeftskunden/)
+
+
 ## Digitale Vermögensverwaltung
 
 - [Robo Advisor im Vergleich](https://etf.capital/robo-advisor-im-vergleich/)
@@ -78,5 +91,25 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [WeltSparen / WeltInvest](https://www.sparplaene.net/weltsparen-und-weltinvest-im-test/)
 - [Oskar ETF](https://www.sparplaene.net/oskar-etf-sparplan-im-test/)
 - [Growney](https://www.sparplaene.net/growney-sparplan-test/)
+
+## Banken Login
+
+- [Scalable Login](https://etf.capital/broker/scalable-capital/login/)
+- [Trade Republic Login](https://etf.capital/broker/trade-republic/login/)
+- [flatex Login](https://etf.capital/broker/flatex/login/)
+- [onvista bank Login](https://etf.capital/broker/onvista-bank/login/)
+- [ING Login](https://etf.capital/broker/ing/login/)
+- [comdirect Login](https://etf.capital/broker/comdirect/login/)
+- [Consorsbank Login](https://etf.capital/broker/consorsbank/login/)
+- [Smartbroker Login](https://etf.capital/broker/smartbroker/login/)
+- [DEGIRO Login](https://etf.capital/broker/degiro/login/)
+- [S Broker Login](https://etf.capital/broker/sbroker/login/)
+- [DKB Login](https://etf.capital/broker/dkb/login/)
+- [CapTrader Login](https://etf.capital/broker/captrader/login/)
+- [LYNX Login](https://etf.capital/broker/lynx/login/)
+- [xtb Login](https://etf.capital/broker/xtb/login/)
+- [Postbank Login](https://etf.capital/broker/postbank/login/)
+- [Targobank Login](https://etf.capital/broker/targobank/login/)
+
 
 **Hinweise**: ETFs unterliegen genau wie Aktien Marktschwankungen. Bei einem Börsen-Crash kann es Jahre dauern, bis sich die Kurse wieder erholt haben. Überlegen Sie sich vorher, wieviel Risiko Sie mental und finanziell eingehen wollen. Dieser Text enthält Markennennungen.
