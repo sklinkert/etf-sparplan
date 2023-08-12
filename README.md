@@ -1,6 +1,6 @@
 # Link-Sammlung rund um ETFs & ETF-Sparpläne
 
-ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese erfreuen sich immer größerer Beliebtheit bei Sparern in Deutschland. Ein ETF bildet einen Index ab. Ein Index ist ein Korb aus Aktien, wie z. B. der DAX 30, der die 30 größten Aktien in Deutschland abbildet. Da sie an der Börse gehandelt werden, sind sie sehr flexibel, da sie zu jeder Zeit gekauft und verkauft werden können. Anleger profitieren nicht nur von extrem niedrigen Kosten und Gebühren bei ETFs, sondern auch von der Risikostreuung über viele Aktien (Diversifikation). 
+ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese erfreuen sich immer größerer Beliebtheit bei Sparern in Deutschland. Ein ETF bildet einen Index ab. Ein Index ist ein Korb aus Aktien, wie z. B. der DAX 50, der die 50 größten Aktien in Deutschland abbildet. Da sie an der Börse gehandelt werden, sind sie sehr flexibel, da sie zu jeder Zeit gekauft und verkauft werden können. Anleger profitieren nicht nur von extrem niedrigen Kosten und Gebühren bei ETFs, sondern auch von der Risikostreuung über viele Aktien (Diversifikation). 
 
 
 ## Allgemeines
@@ -46,7 +46,7 @@ ETF steht für Exchange Traded Funds, zu deutsch: börsengehandelte Fonds. Diese
 - [**Euro STOXX 600**](https://etf.capital/euro-stoxx-50-oder-euro-stoxx-600/)
 - [**FTSE All World**](https://etf.capital/indizes-msci-world-oder-ftse-all-world/): Die Alternative zum MSCI ACWI
 - [**MSCI Emerging Markets**: Die Schwellenländer](https://etf.capital/msci-emerging-markets-etf/)
-- [**DAX**: Die besten ETFs auf den DAX 30 Index](https://etf.capital/daxetf-die-besten-etf-fonds-auf-den-dax/)
+- [**DAX**: Die besten ETFs auf den DAX 50 Index](https://etf.capital/daxetf-die-besten-etf-fonds-auf-den-dax/)
 - [**MDAX**: Der deutsche Mittelstand](https://etf.capital/mdax-etf/)
 - [**TecDAX**: Deutsche Technologiewerte](https://etf.capital/tecdax-etf/)
 - [**Nasdaq 100**](https://etf.capital/die-besten-nasdaq-100-etfs/)**:** US-Wachstums- und Technologieaktien
